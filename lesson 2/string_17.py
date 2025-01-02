@@ -1,0 +1,7 @@
+sentence=str(input('Input sentence:'))
+vowels0=sentence.replace('a',"*")
+vowels1=vowels0.replace('e',"*")
+vowels2=vowels1.replace('u',"*")
+vowels3=vowels2.replace('i',"*")
+vowels4=vowels3.replace('o',"*")
+print(vowels4)

@@ -1,0 +1,1 @@
+bajara olmadim yonalish bera olasizmi 
